@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DhruvO7
-- 👀 I’m interested learning
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @dhruvbhandarig@gmail.com
